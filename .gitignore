@@ -1,7 +1,9 @@
 *
 
 !src/
+!src/**
 !public/
+!public/**
 !package.json
 !package-lock.json
 !yarn.lock
