@@ -21,7 +21,7 @@ Este é um projeto pessoal, desenvolvido com o objetivo de praticar e evoluir ha
 
 1. Clone este repositório:
    ```
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/TalytaPantoja/Estatizar.git
    ```
 2. Instale as dependências:
    ```
