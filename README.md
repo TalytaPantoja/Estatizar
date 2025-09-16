@@ -15,7 +15,6 @@ Este é um projeto pessoal, desenvolvido com o objetivo de praticar e evoluir ha
 
 - Estilização modular e dinâmica com Styled Components
 - Estrutura de componentes organizada para facilitar manutenção e escalabilidade
-- Contexto responsivo
 
 ## Como Rodar o Projeto
 
